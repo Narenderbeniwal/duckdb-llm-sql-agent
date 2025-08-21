@@ -1,0 +1,336 @@
+2025-08-20 16:40:48,429 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:40:48,436 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:40:48,437 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:40:48,438 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:40:48,439 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:40:48,464 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:40:48,695 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:43:05,234 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:43:05,240 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:43:05,241 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:43:05,242 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:43:05,244 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:43:05,269 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:43:05,530 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:48:41,091 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:48:41,097 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:48:41,099 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:48:41,100 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:48:41,101 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:48:41,128 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:48:41,280 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:49:08,404 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:49:08,412 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:49:08,413 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:49:08,414 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:49:08,416 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:49:08,451 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:49:08,758 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 16:49:09,101 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:49:50,001 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:49:50,007 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:49:50,009 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:49:50,010 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:49:50,011 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:49:50,037 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:49:50,296 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:51:26,321 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 16:51:26,328 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 16:51:26,329 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 16:51:26,330 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 16:51:26,331 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 16:51:26,357 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 16:51:26,546 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 16:55:35,781 [WARNING] Failed to import geometry msgs in rigid_transformations.py.
+2025-08-20 16:55:35,782 [WARNING] Failed to import ros dependencies in rigid_transforms.py
+2025-08-20 16:55:35,782 [WARNING] autolab_core not installed as catkin package, RigidTransform ros methods will be unavailable
+2025-08-20 16:55:53,636 [INFO] No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+2025-08-20 17:08:36,678 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:08:36,689 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:08:36,692 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:08:36,693 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:08:36,695 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:08:36,729 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:08:37,117 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:08:37,452 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:10:57,812 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:10:58,961 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:00,443 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:06,280 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:07,368 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:09,836 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:13,963 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:14,668 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:17,115 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:20,646 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:21,300 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:23,109 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:11:31,591 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:14:26,172 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:14:26,181 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:14:26,188 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:14:26,190 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:14:26,192 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:14:26,229 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:14:26,717 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:14:27,086 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:15:57,981 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:15:57,994 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:15:57,997 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:15:57,998 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:15:58,000 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:15:58,035 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:15:58,388 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:15:58,732 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:16:22,664 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-20 17:17:22,828 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:17:22,840 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:17:22,843 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:17:22,845 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:17:22,848 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:17:22,884 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:17:23,265 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:17:23,614 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:17:39,997 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:40,828 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:42,202 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:47,435 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:48,115 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:50,121 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:17:57,932 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:18:02,501 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:22:44,468 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:22:44,486 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:22:44,488 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:22:44,489 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:22:44,494 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:22:44,528 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:22:45,002 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:22:45,363 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:23:05,305 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:23:05,314 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:23:05,316 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:23:05,317 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:23:05,320 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:23:05,353 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:23:05,649 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:23:05,982 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:25:13,346 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:25:13,356 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:25:13,359 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:25:13,361 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:25:13,364 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:25:13,402 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:25:13,761 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:25:14,096 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:27:05,977 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:27:05,987 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:27:05,990 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:27:05,991 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:27:05,993 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:27:06,028 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:27:06,392 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:27:06,727 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:31:07,544 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:31:07,555 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:31:07,558 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:31:07,559 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:31:07,561 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:31:07,596 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:31:07,955 [INFO] NumExpr defaulting to 8 threads.
+2025-08-20 17:31:08,302 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:32:38,910 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:32:38,924 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:32:38,925 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:32:38,927 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:32:38,929 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:32:38,963 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:32:39,148 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:33:16,791 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:17,598 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:19,054 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:23,218 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:24,036 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:26,332 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:31,489 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:32,947 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:34,993 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:40,014 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:40,804 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:42,738 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:33:47,899 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:31,422 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:32,652 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:34,926 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:40,794 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:41,660 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:43,503 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:34:51,592 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:39:51,196 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:39:51,204 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:39:51,205 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:39:51,207 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:39:51,209 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:39:51,244 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:39:51,439 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:40:05,122 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-20 17:40:43,871 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 17:40:43,883 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 17:40:43,886 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 17:40:43,888 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 17:40:43,890 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 17:40:43,925 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 17:40:44,123 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 17:40:56,855 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:40:57,581 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:40:59,000 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:41:02,580 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:41:03,202 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:41:05,087 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 17:41:16,515 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:11,603 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-20 20:45:11,611 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-20 20:45:11,612 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-20 20:45:11,613 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-20 20:45:11,614 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-20 20:45:11,642 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-20 20:45:11,868 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-20 20:45:18,797 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:20,394 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:24,763 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:25,882 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:30,280 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:39,981 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:40,996 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:44,353 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:49,129 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:50,118 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:53,186 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:59,307 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:45:59,966 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:03,940 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:16,020 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:17,085 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:18,126 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:19,915 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:27,451 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:28,335 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:31,556 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:39,305 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:40,961 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:44,286 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:54,837 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:55,904 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:46:59,275 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:06,025 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:06,830 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:09,827 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:22,616 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:24,004 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:24,956 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:26,895 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:31,154 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:31,931 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:34,254 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:42,763 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:43,657 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:46,546 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:49,305 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:59,220 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:47:59,952 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:02,692 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:11,040 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:11,840 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:14,394 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:20,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:21,186 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:25,673 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:37,060 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:38,246 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:39,226 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:41,180 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:45,294 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:46,765 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:48:51,673 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-20 20:49:07,020 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:48:21,119 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-21 07:48:21,126 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-21 07:48:21,128 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-21 07:48:21,131 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-21 07:48:21,133 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-21 07:48:21,173 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-21 07:48:21,549 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-21 07:48:42,610 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:48:44,681 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:10,050 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:11,790 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:14,482 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:17,905 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:18,850 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:49:20,080 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:31,815 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:33,823 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:35,414 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:37,901 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:38,744 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:40,570 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 07:54:45,854 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:29,271 [INFO] Loaded 'customers.csv' into table 'customers'
+2025-08-21 08:14:29,276 [INFO] Loaded 'products.csv' into table 'products'
+2025-08-21 08:14:29,277 [INFO] Loaded 'countries.csv' into table 'countries'
+2025-08-21 08:14:29,278 [INFO] Loaded 'cities.csv' into table 'cities'
+2025-08-21 08:14:29,279 [INFO] Loaded 'employees.csv' into table 'employees'
+2025-08-21 08:14:29,305 [INFO] Loaded 'sales.csv' into table 'sales'
+2025-08-21 08:14:29,462 [INFO] Available tables: ['cities', 'countries', 'customers', 'employees', 'products', 'sales']
+2025-08-21 08:14:32,968 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:34,103 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:35,380 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:37,246 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:38,406 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:40,784 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:42,066 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:43,386 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:48,816 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:49,687 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:51,440 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:52,799 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:57,759 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:14:58,679 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:00,782 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:05,438 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:07,197 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:09,251 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:13,161 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:14,039 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:16,432 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:19,879 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:20,721 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:22,694 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:29,924 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:30,929 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:31,858 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:32,838 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:36,158 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:40,151 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:41,202 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:45,509 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:46,242 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:47,116 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:48,149 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:53,056 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:53,751 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:55,819 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:15:59,505 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:00,428 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:02,001 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:05,015 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:05,956 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:07,284 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:12,408 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:13,130 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:13,829 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:14,990 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:18,221 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:19,166 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:21,255 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 08:16:27,070 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

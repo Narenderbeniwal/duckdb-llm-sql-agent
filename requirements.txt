@@ -1,0 +1,8 @@
+streamlit
+pandas
+duckdb
+matplotlib
+seaborn
+langchain
+langchain-community
+openai
