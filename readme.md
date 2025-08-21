@@ -29,6 +29,7 @@ It uses **LangChain SQL Agent + OpenAI LLMs** and provides a **Streamlit fronten
 ## Create Virtual Environment
 python3 -m venv venv
 source venv/bin/activate   # Mac/Linux
+
 venv\Scripts\activate      # Windows
 ## Install Requirements
 pip install -r requirements.txt
